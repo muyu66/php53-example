@@ -1,4 +1,4 @@
-FROM chinxn/php53:test
+FROM chinxn/php53:5-nginx
 MAINTAINER muyu.zhouyu@outlook.com
 
 COPY index.html /data/www/
